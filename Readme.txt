@@ -2,7 +2,7 @@ This is IITG Webmail Notifier, a small extension developed by Team UniRank
 
 You Have to Add an account on first run.(Only on first run, not everytime.)
 
-Please message your Suggestions/Feedbacks to any developer on the sidebar or mail to nish.gupta01@gmail.com.
+Please message your Suggestions/Feedbacks to any developer on the sidebar or mail to pulkitarora26@gmail.com.
 
 DESCRIPTION
  
